@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "title": "Кимоно «Юная майко»",
+            "image": "./src/assets/img/kimono1.png",
+            "price": 40000,
+            "id": 1
+        },
+        {
+            "title": "Кимоно «Ликорис»",
+            "image": "./src/assets/img/kimono2.png",
+            "price": 60000,
+            "id": 2
+        },
+        {
+            "title": "Кимоно «Белые журавли»",
+            "image": "./src/assets/img/kimono3.png",
+            "price": 40000,
+            "id": 3
+        },
+        {
+            "title": "Кимоно «Спокойствие»",
+            "image": "./src/assets/img/kimono4.png",
+            "price": 20000,
+            "id": 4
+        },
+        {
+            "title": "Кимоно «Бонсай»",
+            "image": "./src/assets/img/kimono5.png",
+            "price": 50000,
+            "id": 5
+        },
+        {
+            "title": "Кимоно «Ямадзи»",
+            "image": "./src/assets/img/kimono6.png",
+            "price": 70000,
+            "id": 6
+        },
+        {
+            "title": "Кимоно «Иромудзи»",
+            "image": "./src/assets/img/kimono7.png",
+            "price": 40000,
+            "id": 7
+        },
+        {
+            "title": "Кимоно «Повседневность»",
+            "image": "./src/assets/img/kimono8.png",
+            "price": 20000,
+            "id": 8
+        },
+        {
+            "title": "Кимоно «Прибрежные волны»",
+            "image": "./src/assets/img/kimono9.png",
+            "price": 30000,
+            "id": 9
+        },
+        {
+            "title": "Кимоно «Суми-э»",
+            "image": "./src/assets/img/kimono10.png",
+            "price": 40000,
+            "id": 10
+        },
+        {
+            "title": "Кимоно «Многообразие красного»",
+            "image": "./src/assets/img/kimono11.png",
+            "price": 30000,
+            "id": 11
+        },
+        {
+            "title": "Кимоно «Традиция»",
+            "image": "./src/assets/img/kimono12.png",
+            "price": 40000,
+            "id": 12
+        }
+    ]
+}
